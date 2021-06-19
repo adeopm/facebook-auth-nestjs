@@ -15,6 +15,7 @@ export interface UserFieldsResponse {
   last_name: string;
   name_format: string;
   picture: string;
+  "picture.type(large)": string;
   profile_pic: string;
   meeting_for: Array<string>;
   published_timeline: boolean;
