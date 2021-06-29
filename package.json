@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adeopm/facebook-auth-nestjs.git"
+    "url": "git+https://github.com/devMontagnini/facebook-auth-nestjs.git"
   },
   "keywords": [
     "nestjs",
