@@ -2,7 +2,7 @@
   "name": "facebook-auth-nestjs",
   "version": "0.0.4",
   "description": "facebook-auth-nestjs",
-   "main": "lib/index.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
     "lib/**/*"
